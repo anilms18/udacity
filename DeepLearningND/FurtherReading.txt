@@ -1,0 +1,6 @@
+Neaural networks: 
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+https://en.wikipedia.org/wiki/Early_stopping
+https://www.quora.com/How-do-I-decide-the-number-of-nodes-in-a-hidden-layer-of-a-neural-network-I-will-be-using-a-three-layer-model
+http://www.ijert.org/view-pdf/12369/effect-of-learning-rate-on-artificial-neural-network-in-machine-learning
+
